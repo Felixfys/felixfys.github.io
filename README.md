@@ -29,6 +29,6 @@ Intern @ DBS Bank – Credit Risk Management	Singapore Nov 2019 – Feb 2020
  - includes handling AJAX requests, pagination, infinite scrolling, Selenium browser automation, etc.
 
 [Credit Card Data Analysis](https://github.com/Felixfys/Projects/tree/main/Credit_Card_Data_Analysis)
-- This analysis project aims to determine factors leading to attrition rates in credit card customers of a bank. Initial EDA is done in Python before further inspection by SQL queries and finally dashboarding in Tableau. 
+- The Credit Card Attrition Analysis project aims to identify factors contributing to customer attrition within a credit card portfolio. Utilizing a publicly available dataset from Kaggle, the analysis encompasses both exploratory data analysis (EDA) and structured SQL queries to extract meaningful insights.
 - [Tableau Dashboard](https://public.tableau.com/app/profile/fu.yushen/viz/CreditCardAttritionAnalysis_17429589104350/CreditAnalysisDashboard)
 
